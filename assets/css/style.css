@@ -1,0 +1,47 @@
+@font-face{
+    font-family: Mason-serif;
+    src:url("../font/MasonSerifSuper__.ttf");
+}
+
+.jumbotron {
+    font-size: 72px;
+    background-color:#9999;
+    text-align: center;
+    font-family: Mason-serif, sans-serif;
+}
+
+.btn-default {
+    color: #ffffff;
+    font-size: 36px;
+}
+
+body {
+    background-image: url("../images/witcher-background.jpg");
+    color: #ffffff;
+    font-style: normal;
+    font-size: 36px;
+    font-family: Mason-serif;
+    font-weight: 400;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+button, div, form, input {
+    margin: 5px;
+    font-size: 36px;
+}
+
+img {
+	max-width: 220px;
+	max-height: 220px;
+}
+
+label {
+    font-size: 36px;
+    color: #ffffff;
+}
+
+.holder {
+    float: left;
+}
+
